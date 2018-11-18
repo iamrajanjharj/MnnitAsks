@@ -40,3 +40,6 @@ A question and answer website with all the basic functionality to ask, answer, u
 - #### Search
 
 ![Search](https://raw.githubusercontent.com/iamrajanjharj/MnnitAsks/master/img/search.JPG)
+
+### Supported By:
+#### [Rituparno Biswas](https://github.com/roopbiswas) and [Amrit Joshi](https://github.com/amrit5joshi)
